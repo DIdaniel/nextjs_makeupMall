@@ -1,0 +1,24 @@
+
+.wrap {
+  display: flex;
+  margin: 2rem 0;
+}
+
+.img_item {
+  margin-right: 3rem;
+}
+
+.info_item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.tit_item {
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.num_price {
+  font-size: 2rem;
+}
